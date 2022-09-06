@@ -1,4 +1,6 @@
-## Oi, me chamo Breno Lima e sou estudante de Análise e desenvolvimento de sistemas!
+<h1 align="center">Olá 👋, me chamo Breno Lima</h1>
+<h3 align="center">Me especializando em front-end e aprendendo algumas coisas em back-end!</h3>
+
 <div align="center">
   <a href="https://github.com/caralhobreno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caralhobreno&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
