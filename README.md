@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caralhobreno&show_icons=true&locale=en&layout=compact" alt="caralhobreno" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caralhobreno&show_icons=true&locale=en" alt="caralhobreno" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caralhobreno&" alt="caralhobreno" /></p>
