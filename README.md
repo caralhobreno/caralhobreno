@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caralhobreno&show_icons=true&locale=en&layout=compact" alt="caralhobreno" /></p>
 
-<br />
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caralhobreno&show_icons=true&locale=en" alt="caralhobreno" /></p>
 
