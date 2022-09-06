@@ -1,18 +1,23 @@
-<h1 align="center">Olá, me chamo Breno Lima</h1>
-<h3 align="center">Me especializando em front-end e aprendendo algo de back-end =)!</h3>
+<h1 align="center">Olá 👋, Me chamo Breno Lima</h1>
+<h3 align="center">Me especializando em front-end e aprendendo algumas coisas em back-end!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caralhobreno&label=Profile%20views&color=0e75b6&style=flat" alt="caralhobreno" /> </p>
 
-- 🔭 Atualmente trabalhando com **HTML/CSS**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caralhobreno" alt="caralhobreno" /></a> </p>
 
-- 📫 Contate-me em **pqpbrenol@gmail.com**
+<p align="left"> <a href="https://twitter.com/idclima" target="blank"><img src="https://img.shields.io/twitter/follow/idclima?logo=twitter&style=for-the-badge" alt="idclima" /></a> </p>
 
-- ⚡ **Tenho algumas HQ's da Detective Comics**
+- 🌱 Atualmente estou aprendendo **Front-end!**
+
+- 📫 Contate-me em: **pqpbrenol@gmail.com**
+
+- ⚡ Fun fact **Tenho algumas HQ's da Detective Comics e também da Marvel Comics!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/idclima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idclima" height="30" width="40" /></a>
 <a href="https://instagram.com/fzcklima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fzcklima" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/breno lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="breno lima" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
